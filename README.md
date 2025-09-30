@@ -74,7 +74,6 @@
 
 
 <div align="center">
-![ending](![1517270417_1516431101_fad](https://github.com/user-attachments/assets/48c7da93-15fc-4147-a4a2-8f5437d0255e)
-)
+![ending](https://github.com/user-attachments/assets/48c7da93-15fc-4147-a4a2-8f5437d0255e))
 </div>  
 
