@@ -74,6 +74,8 @@
 
 
 <div align="center">
-![ending](https://github.com/user-attachments/assets/48c7da93-15fc-4147-a4a2-8f5437d0255e))
-</div>  
+
+![Описание гифки](https://github.com/user-attachments/assets/316956d1-5ad5-4564-9443-bef3ae1eaf82?raw=true)
+
+</div>
 
