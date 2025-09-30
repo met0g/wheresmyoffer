@@ -78,7 +78,8 @@
 
 <div align="center">
 
-![Описание гифки](https://github.com/user-attachments/assets/316956d1-5ad5-4564-9443-bef3ae1eaf82?raw=true)
+![1517270417_1516431101_fad](https://github.com/user-attachments/assets/51d0a7e3-1cc9-40de-9e6d-f4dd24917822?raw=true)
+
 
 </div>
 
