@@ -1,10 +1,13 @@
 <div align="center">
-  <b>wheresmyoffer</b>
+  <b>wheresmyoffer__</b>
 
 </div>
 <div align="center">
 
 ![Анимированная гифка](https://media1.tenor.com/m/oihs1KqyDbgAAAAC/dota-2-dota.gif)
+
+Пэт прокты выполненные в рамках учебы в университе 
+находятся <b>находятся в ветках этого репозитория</b><br>Собсетвенные пэт проекты <b>находятся в main ветке</b>
 </div>
 <details>
 <summary><b> О себе </summary>
