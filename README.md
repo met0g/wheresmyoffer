@@ -68,6 +68,12 @@
 
 <div align="center">
 
+  [![TG](https://addons.thunderbird.net/user-media/addon_icons/988/988660-64.png)](https://t.me/meto_g)  [![TW](https://avatars.akamai.steamstatic.com/206b64715ae514e172755514e4383065621fa8ea_medium.jpg)](https://www.twitch.tv/east_0ne)
+  
+ 
+
+  
+  
   ![1517270417_1516431101_fad](https://github.com/user-attachments/assets/ee9f9f5a-97dd-4134-a345-d02bf539ad82?raw=true)
 
 </div>
